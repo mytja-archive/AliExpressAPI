@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="AliExpressAPI", # Replace with your own username
-    version="beta1.0.0",
+    version="1.0.0",
     author="mytja",
     description="Get AliExpress results in a very very detailed JSON",
     long_description=long_description,
