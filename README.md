@@ -1,5 +1,3 @@
-<script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js"></script>
-
 # AliExpressAPI
 Unoffical simple AliExpress API, that doesn't require any API tokens, and is based on BeautifulSoup
 
@@ -20,7 +18,7 @@ This will return a long JSON
 
 <details>
 <pre>
-<code class="prettyprint">
+<code>
 {
    "mods":{
       "legalJeopardyInfo":{
